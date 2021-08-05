@@ -1,3 +1,9 @@
 body {
     background-color: #31FFF3 ;
 }
+p {
+    font-size: 30px;
+}
+#dato {
+    color: rgb(187, 24, 124);
+}
